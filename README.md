@@ -29,6 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manu1486&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pepesir" alt="pepesir" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pepesir&show_icons=true&locale=en&layout=compact" alt="pepesir" /></p>
